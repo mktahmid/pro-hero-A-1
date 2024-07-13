@@ -1,8 +1,56 @@
+  
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
 
+  
+  .azeret-mono-normal{
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+}
+.banner-description{
+  color: #0D1321;
+}
+.banner-tittle{
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 68px;
+text-align: center;
 
-.azeret-mono-normal {
-  font-family: "Azeret Mono", monospace;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+width: 998px;
+height: 136px;
+}
+.dark-2{
+  color: #0D1321;
+}
+.banner{
+ text-align: center;
+ justify-content: center;
+ position: absolute;
+width: 1440px;
+height: 652px;
+left: 0;
+right: 0px;
+top: 131px;
+bottom: 4462px;
+
+}
+.banner-contant{
+  max-width: 800px;
+  margin: auto;
+}
+.secondary-bg{
+  background-image: url(../assets/Hero-bg.png);
+  max-width: 100%;
+}
+
+.btn-primary{
+  color: #FFFFFF;
+  background-color: #0D1321;
+   padding: 21px, 24px, 21px, 24px ;
+   width: 160px;
+   height: 50px;
+
 }
