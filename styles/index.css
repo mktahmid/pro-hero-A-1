@@ -8,6 +8,9 @@
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
+    width: 1440px;
+height: 5245px;
+
   }
 }
 .banner-description{
@@ -18,6 +21,10 @@ color: rgb(13, 19, 33);
   color: #0D1321;
 }
 .banner{
+  width: 1440px;
+height: 652px;
+margin: 0 auto;
+border: 2px solid white;
   text-align: center;
   justify-content: center;
  }
@@ -73,11 +80,11 @@ text-align: center;
   }
  
 
-  .submit{
-    width: 1140px;
-    height: 300px;
+  .submit{ 
+   width: 1140px; 
+    height: 314px;
     margin: 0 auto;
-    border: 2px solid red;
+    border: 2px solid;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -118,3 +125,66 @@ border-radius: 8px;
 background: rgb(255, 255, 255);
 border: ;
   }
+  .skills{
+    width: 1140px;
+    height: 460px;
+    margin: 0 auto;
+    border: 2px solid white;
+   }
+   .text-center{
+    text-align: center;
+   }
+   section{
+    margin-top: 130px;
+    margin-top: 130px;
+   }
+   .section-tittle{
+    width: 852px;
+    height: 30px;
+    margin: 24px auto;
+    text-align: center;
+    color: rgb(13, 19, 33);
+    font-size: 30px;
+font-weight: 800;
+   }
+   .text-description{
+     padding: 40px;
+   }
+   .skills-container{
+    width:  1100px;
+    height: 286px;
+    /* Auto layout */
+    display: flex;
+      
+    margin: 0 auto;
+    gap: 24px;}
+
+   .skill{
+    padding: 30px;
+border-radius: 5px;
+   }
+   .skill-2{
+    background: rgba(0, 76, 232, 0.05);
+   }
+ .skill-1{
+  background: rgba(255, 76, 30, 0.05);
+ }
+ .skill-3{
+  background: rgba(255, 223, 0, 0.05);
+ }
+ .more{
+  font-weight: 700;
+  font-size: 16px;
+  font-size: 16px;
+color: rgb(13, 19, 33);
+text-decoration-line: underline;
+}
+.skill-description{
+ font-weight: 400;
+  font-size: 16px;
+  }
+.skill-tittle{
+  
+  font-size: 24px;
+  font-weight: 800;
+}
