@@ -48,7 +48,10 @@ text-align: center;
 
 }
 .jkvd{
+  display: flex;
   text-align: center;
+  justify-content: center;
+  
   
 }
 .tle{
@@ -69,3 +72,49 @@ text-align: center;
     text-align: center;
   }
  
+
+  .submit{
+    width: 1140px;
+    height: 300px;
+    margin: 0 auto;
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../assets/handshake.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 16px;
+			
+
+background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+  }
+  
+
+  .main-content{
+    margin-bottom: 30px;
+  
+  }
+ .h3{
+  font-size: 170%;
+  text-align: center;
+ }
+
+  .main-content input{
+height:47px;
+width: 548PX;
+border: none;
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+
+box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  }
+  #sub-btn{
+    width: 100px;
+height: 47px;
+border-radius: 8px;
+background: rgb(255, 255, 255);
+border: ;
+  }
