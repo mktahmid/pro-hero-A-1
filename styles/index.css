@@ -188,49 +188,6 @@ text-decoration-line: underline;
   font-size: 24px;
   font-weight: 800;
 }
-<main>
-<section class="jkvd">
-  <div>
-   <h5 class="tle">My Inspiration</h5>
-   <p class="inspa-descri">Coding is like a superpower; every line we write can shape the digital world.The journey of programming is a continuous adventure filled with  endless possibilities.</p>
-     <div class="vd">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/DGHn2uOAVCE?si=ptB4DKcHDSJzZzDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-     </div>
-    </div>
-  </section>
-</main>
-
-<section class="skills" >
-<h1 class="section-tittle text-center">My Current Target</h1>
-<p class="text-description text-center">
-I am currently learn html and css.My target is learn every 7 hour with programming hero for 12-18 month .
-</p>
-<div class="skills-container">
-
-<div class="skill skill-1">
-<img src="assets/html.png" alt="">
-<h4 class="skill-tittle">HTML</h4>
-<p class="skill-description">HTML is the standard markup language used to create web pages.It a structure webpage.</p>
-<h4 class="more"> Learn more </h4>
-</div>
-
-<div class="skill skill-2" >
-<img src="assets/css.png" alt="">
-<h4 class="skill-tittle">CSS</h4>
-<p class="skill-description">CSS is a stylesheet language used to describe the presentation of a document written in HTML .</p>
-<h4 class="more"> Learn more </h4>
-</div>
-<div class="skill skill-3 ">
-<img src="assets/js.png" alt="">
-<h4 class="skill-tittle">JavaScript</h4>
-<p class="skill-description">JavaScript is an high level,interpreted programming language that enables interactive web pages</p>
-<h4 class="more"> Learn more </h4>
-</div>
-</div>
-</section>
-
-
-
 
 <div class="submit">
 <div class="main-content">
